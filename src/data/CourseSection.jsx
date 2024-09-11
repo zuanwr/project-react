@@ -1,6 +1,7 @@
-export const coursesSection ={
-    Image:'https://img.freepik.com/free-vector/online-learning-isometric-concept_1284-17947.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161',
-    Content:`  <p className="deskripsi">You Will Need This</p>
+export const coursesSection = {
+  Image:
+    "https://img.freepik.com/free-vector/online-learning-isometric-concept_1284-17947.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161",
+  Content: `  <p className="deskripsi">You Will Need This</p>
             <h2>Online Courses</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
@@ -16,5 +17,5 @@ export const coursesSection ={
               <a href="" className="tbl-biru">
                 Pelajari Lebih Lanjut
               </a>
-            </p>`
-}
+            </p>`,
+};
