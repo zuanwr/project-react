@@ -10,7 +10,7 @@ import { Tutor, TutorList } from "../data/Tutor";
 import { partner, partnerImg } from "../data/partner";
 import { ContactSection } from "../data/contactSection";
 
-import Parse from "html-react-parser/lib/index";
+import Parse from 'html-react-parser'
 import "../style/Home.css";
 
 function Home() {
